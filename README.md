@@ -3,6 +3,6 @@ ember-components
 
 Components for EmberJS
 
-__Mantained by Anderson de Castro__
+__Maintained by Anderson de Castro__
 
 -> Twitter Button
